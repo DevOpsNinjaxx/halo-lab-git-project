@@ -1,4 +1,7 @@
+
 # halo-lab-git-project
+Name: Adetola Adeniyi
+my main motivation about DevOps is the money the developers make, every other things comes after. we gat to make the money together.
 
 Name:Rasheed Olabanjo
 my motivation on DevOPs:Career Opportunities: DevOps is in high demand, and professionals with DevOps skills are sought after by many organizations, leading to attractive career opportunities and potential for career growth.Personal Development: Learning DevOps can lead to personal and professional growth, allowing individuals to become more well-rounded and versatile in the software development and operations space.
