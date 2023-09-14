@@ -1,4 +1,7 @@
+
 # halo-lab-git-project
+Name: Adetola Adeniyi
+my main motivation about DevOps is the money the developers make, every other things comes after. we gat to make the money together.
 
 chinedu
 
