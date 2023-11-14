@@ -1,5 +1,11 @@
 # halo-lab-git-project
 
+ Muhydeen,
+
+My name is Muhydeen Abdularazaq, my motivations in learning Devops is the fact that DevOps has become the recent phenomenon of how software is delivered in the last decade,the In-demand,ability to work anywhere,Exciting technologies to learn, High Salary and Better benefits are part of the vibes. So you may be wondering, is DevOps really that great? The short answer is YES!
+
+
+
 chinedu
 
 I have always wanted to be a tech bro. However, i dit not red a stem course in school, but i am certain of succeeding in this pathway
